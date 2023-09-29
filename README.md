@@ -12,7 +12,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">In programming almost nobody knows what the h♥ll they're doin' and we all just use google to figure things out on the fly</h2></summary>
+    <summary><h2 style="display: inline-block">In programming almost nobody knows what the h♥ll they're doin' <br> and we all just use google to figure things out on the fly</h2></summary>
   </ul>
 </div>
 
@@ -22,12 +22,12 @@
 
 - 🌱 I’m currently learning **how to create an app using ReactTs, NestJS, Postgres and JWT**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in devops. So,I'm learning **Docker and Kubernetes**
 
-- 💬 Ask me about **anything**. I really love to share my what I know as well as to test myself.
+- 💬 Ask me about **anything**. I really love to share my what I know as well as to test myself with your question.
 
 - 📫 Feel free to reach me out **shikigamimaito25@gmail.com**
-- 
+
 <!--Intro end-->
 
 
@@ -75,7 +75,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,csharp,cpp,css,docker,express,github,html,java,js,md,mongodb,mysql,nodejs,nestjs,postman,py,react,redux,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,cpp,css,docker,express,github,html,java,js,md,mongodb,mysql,nodejs,nestjs,postman,py,react,redux,ts,vscode&perline=14" />
   </a>
 </p>
 
@@ -93,14 +93,6 @@
 <a href="https://www.linkedin.com/in/maito-shikigami-813218200/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/_0110b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 </p>
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=maitogami123&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
