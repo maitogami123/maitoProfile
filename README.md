@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **anything**. I really love to share my what I know as well as to test myself with your question.
 
-- 📫 Feel free to reach me out **shikigamimaito25@gmail.com**
+- 📫 Feel free to reach me out **lethaivi.work@gmail.com**
 
 <!--Intro end-->
 
